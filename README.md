@@ -1,3 +1,3 @@
 # ImersaoDev
 
-Confira o resultado em: https://codepen.io/camilavitoriacosta/pen/JjJaOWG?editors=1000
+Confira o resultado em: https://camilavitoriacosta.github.io/ImersaoDev/
