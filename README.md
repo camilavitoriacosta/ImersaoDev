@@ -2,7 +2,7 @@
 
 Confira o resultado em: https://camilavitoriacosta.github.io/ImersaoDev/
 
-### Projetos da Imersao Dev
+## Projetos da Imersao Dev
 🔢 [Calculadora de Média](https://codepen.io/camilavitoriacosta/pen/mdwMWgZ)
 
 💰 [Conversor de Moedas](https://codepen.io/camilavitoriacosta/pen/rNwGOXV)
