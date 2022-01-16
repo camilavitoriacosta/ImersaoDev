@@ -1,20 +1,25 @@
-# ImersaoDev
+<h1 align="center"> Imersão Dev </h1>
+Projetos desenvolvidos durante a Imersão Dev feita pela Alura nos dias 13/09/2021 a 24/09/2021.
 
-Confira o resultado em: https://camilavitoriacosta.github.io/ImersaoDev/
 
 ## Projetos da Imersao Dev
-🔢 [Calculadora de Média](https://codepen.io/camilavitoriacosta/pen/mdwMWgZ)
+🔢 [Calculadora de Média](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2001%20-%20Calculadora%20de%20Media)
 
-💰 [Conversor de Moedas](https://codepen.io/camilavitoriacosta/pen/rNwGOXV)
+💰 [Conversor de Moedas](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2002%20-%20Conversor%20de%20Moedas)
 
-🌡️ [Conversor de Temperatura](https://codepen.io/camilavitoriacosta/pen/jOwGEwO)
+🌡️ [Conversor de Temperatura](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2001%20-%20Conversor%20de%20Temperatura)
 
-🧠[ Mentalista](https://codepen.io/camilavitoriacosta/pen/dyRdWgK)
+🧠[ Mentalista](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2003%20-%20Mentalista)
 
-🎬 [Aluraflix](https://codepen.io/camilavitoriacosta/pen/ZEyrOQJ)
+🎬 [Aluraflix](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2004%20e%2005%20-%20Aluraflix)
 
-🏆 [Tabela de Classificação](https://codepen.io/camilavitoriacosta/pen/gOGZNoJ)
+🏆 [Tabela de Classificação](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2006%20-%20Tabela%20Classificacao)
 
-🃏 [Supertrunfo](https://codepen.io/camilavitoriacosta/pen/rNwrMYY)
+🃏 [Supertrunfo](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2007%20e%2008%20-%20SuperTrunfo)
 
-🌐 [Certificard](https://codepen.io/camilavitoriacosta/pen/JjJaOWG)
+🌐 [Certificard](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Certificard)
+
+## 📚 Tecnologias
+- HTML
+- CSS
+- JavaScript
