@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 💰 Conversor de Moedas </title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="page-title">
+          Conversor de moedas
+        </h1>
+        <div class="container2">
+          <p class="page-subtitle">
+            Descubra os valores em dolar U$
+          </p>
+          <label for="moeda">Insira o valor</label><br>
+          <input type="number" id="valor" size="2" /><br>
+          <button type="submit" onclick="ConverterDeDolar()">Converter de Dolar</button>
+          <button type="submit" onclick="ConverterDeReal()">Converter de Real </button>
+          <button type="submit" onclick="ConverterDeEuro()">Converter de Euro</button>
+          <div class='resultados'>
+            <div class="real">
+              <p> R$ </p>
+              <p id="valorConvertidoReal"> - </p>
+            </div>
+            <div class="euro">
+              <p> € </p>
+              <p id="valorConvertidoEuro"> - </p>
+            </div>
+            <div class="dolar">
+              <p> U$ </p>
+              <p id="valorConvertidoDolar"> - </p>
+            </div>
+          </div>
+        </div>
+      
+        <img src="https://raw.githubusercontent.com/gist/gabscrobson/6ef4beab848681a3055c58bf77b0b233/raw/f63169f3f765d19f8780d11bc192d79c30a70245/imersaodevmistery2.svg" class="page-logo" alt="">
+      </div>
+      <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+
+        <script src="script.js"></script>
+</body>
+</html>
