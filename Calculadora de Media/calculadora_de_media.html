@@ -1,0 +1,45 @@
+<html>
+
+<head>
+  <title> Imersão Dev Alura - Aula 01</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="page-title"> Calculadora de média </h1>
+    <p class="page-subtitle"> Descubra qual a sua média de nota de todas as provas! </p>
+
+    <p class="page-subtitle"> Insira suas notas </p>
+
+    <div class='notas'>
+      <div class='n1'>
+        <label for="n1"> Primeiro Bimestre </label><br>
+        <input type="number" id="NotaPrimeiroBimestre" size="2" />
+      </div>
+
+      <div class='n2'>
+        <label for="n2"> Segundo Bimestre </label><br>
+        <input type="number" id="NotaSegundoBimestre" size="2" />
+      </div>
+
+      <div class='n3'>
+        <label for="n3"> Terceiro Bimestre </label><br>
+        <input type="number" id="NotaTerceiroBimestre" size="2" />
+      </div>
+
+      <div class='n4'>
+        <label for="n4"> Quarto Bimestre </label><br>
+        <input type="number" id="NotaQuartoBimestre" size="2" />
+      </div>
+    </div>
+    <button type="submit" onclick="CalcularMedia()"> Calcular </button>
+    <p id="Nota-Final"> </p> <br>
+
+    <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-mentalista.svg" class="page-logo" alt="">
+
+  </div>
+  <a href="https://alura.com.br/" target="_blank"> <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo"> </a>
+</body>
+    <script src="script.js"></script>
+</html>

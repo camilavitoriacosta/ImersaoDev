@@ -1,0 +1,90 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-color: #169098;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 6px;
+    border-radius: 5px;
+    background: white;
+    width: 60px;
+  }
+  
+  button {
+    margin-top: 5px;
+    margin-bottom: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #169098;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    min-width: 360px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .notas {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .media {
+    border: 2px solid white;
+    border-radius: 5px;
+    background: #51a0b1;
+    height: 250px;
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .n1,
+  .n2,
+  .n3,
+  .n4 {
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 5px;
+    height: 80px;
+    padding: 10px;
+    min-width: 150px;
+  }
+  
+  #Nota-Final {
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
