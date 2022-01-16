@@ -1,5 +1,7 @@
 ## Aula 04 e 05: 🎬 [Aluraflix](https://codepen.io/camilavitoriacosta/pen/ZEyrOQJ)
 
+![Video demo](https://github.com/camilavitoriacosta/ImersaoDev/blob/main/Aula%2004%20e%2005%20-%20Aluraflix/aluraflix.gif)
+
 ### 📒 Desafios da aula:
 
 - Criar um campo e botão para adicionar a imagem pela tela, e não direto no código ✔
