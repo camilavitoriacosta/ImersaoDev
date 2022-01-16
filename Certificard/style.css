@@ -2,8 +2,16 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
+:root {
+  --branco: #fff;
+  --fundo-rosa-escuro: #c44569;
+  --container-fundo: #cf6a87;
+  --preto-acizentado: #1c1c1c;
+  --rosa: #b33771;
+}
+
 body {
-  background: #c44569;
+  background: var(--fundo-rosa-escuro);
   font-family: "Roboto", sans-serif;
 }
 
@@ -11,13 +19,14 @@ body {
 /* ROSA: #b33771 | #c44569*/
 /* Preto #2c3a47 */
 .container {
-  background: #cf6a87;
+  background: var(--container-fundo);
   margin: 20px auto;
   border-radius: 20px;
   padding: 64px;
-  color: #1c1c1c;
+  color: var(--preto-acizentado);
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-  max-width: 40%;
+  width: 30%;
+  min-width: 400px;
 }
 
 .perfil {
@@ -54,7 +63,7 @@ body {
   align-self: flex-end;
   font-size: 18px;
   font-weight: 400;
-  background: #b33771;
+  background: var(--rosa);
   color: white;
   border-radius: 5px;
   border: 1px solid #b33771;
@@ -69,6 +78,8 @@ body {
   border-radius: 10px;
   padding: 20px;
   margin: 10px;
+
+  min-width: 300px;
 }
 
 .projetos-titulo {
@@ -93,6 +104,10 @@ body {
 
   font-weight: 400;
   font-size: 18px;
+
+  padding: 5px;
+  box-sizing: border-box;
+  display: block;
 }
 
 .dark {
@@ -133,4 +148,20 @@ body {
   width: 40px;
   height: 40px;
   margin: 5px;
+}
+
+summary {
+  cursor: pointer;
+}
+li :hover {
+  cursor: pointer;
+  color: var(--preto-acizentado);
+  background-color: #b33771;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.redes-sociais a:hover {
+  transform: scale(1.5);
 }
