@@ -61,16 +61,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
   }
-  
-  .media {
-    border: 2px solid white;
-    border-radius: 5px;
-    background: #51a0b1;
-    height: 250px;
-    padding: 10px;
-    margin: 20px;
-  }
-  
+    
   .n1,
   .n2,
   .n3,
