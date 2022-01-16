@@ -1,6 +1,6 @@
-# ImersaoDev
+<h1 align="center"> Imersão Dev </h1>
+Projetos desenvolvidos durante a Imersão Dev feita pela Alura nos dias 13/09/2021 a 24/09/2021.
 
-Confira o resultado em: https://camilavitoriacosta.github.io/ImersaoDev/
 
 ## Projetos da Imersao Dev
 🔢 [Calculadora de Média](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2001%20-%20Calculadora%20de%20Media)
@@ -18,3 +18,8 @@ Confira o resultado em: https://camilavitoriacosta.github.io/ImersaoDev/
 🃏 [Supertrunfo](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Aula%2007%20e%2008%20-%20SuperTrunfo)
 
 🌐 [Certificard](https://github.com/camilavitoriacosta/ImersaoDev/tree/main/Certificard)
+
+## 📚 Tecnologias
+- HTML
+- CSS
+- JavaScript
