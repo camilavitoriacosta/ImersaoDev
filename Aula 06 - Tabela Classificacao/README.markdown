@@ -1,7 +1,7 @@
 ## Aula 06: 🏆 [Tabela de Classificação](https://codepen.io/camilavitoriacosta/pen/NWgMxMa)
 
 
-## Projeto refatorado 🏆 [Tabela de Classificação](https://codepen.io/camilavitoriacosta/pen/gOGZNoJ)
+### Projeto refatorado 🏆 [Tabela de Classificação](https://codepen.io/camilavitoriacosta/pen/gOGZNoJ)
 
 
 ### 📒 Desafios da aula:
